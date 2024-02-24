@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 18% auto;
+}
+.container{
+    background-color: grey;
+    font-family: sans-serif;
+    height: 200px;
+    text-align: center;   
+}
+.container p{
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+}
+input{
+    font-size: 20px;
+    outline: 2px grey;
+}
